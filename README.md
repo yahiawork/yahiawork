@@ -16,6 +16,10 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,python,js,cs,html,css" />
   <br/>
   <img src="https://skillicons.dev/icons?i=flask,react,nodejs,flutter" />
+
+  <img src="https://img.shields.io/badge/Lua-black?style=for-the-badge&logo=lua" />
+  <img src="https://img.shields.io/badge/Astro-black?style=for-the-badge&logo=astro" />
+
 </p>
 
 ---
