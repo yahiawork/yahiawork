@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,js,cs,html,css" />
@@ -20,7 +20,7 @@
 
 ---
 
-## 🧠 What I Build
+## What I Build
 
 <p align="center">
   <img src="https://img.shields.io/badge/Systems-Architecture-black?style=for-the-badge" />
@@ -35,7 +35,7 @@
 
 ---
 
-## ⚙️ GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yahiawork&show_icons=true&theme=dark&hide_border=true" />
@@ -45,14 +45,14 @@
 
 ---
 
-## 📬 Hire a Developer
+## Hire a Developer
 
 <p align="center">
   If you need a developer who can turn ideas into real systems:
 </p>
 
 <p align="center">
-  📧 <strong>yahiasaad.work@gmail.com</strong>
+ <strong>yahiasaad.work@gmail.com</strong>
 </p>
 
 ---
