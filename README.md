@@ -57,7 +57,7 @@
 </p>
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yahiawork&layout=compact&theme=dark&exclude_repo=Live-Portfolio,yahiawork.github.io)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yahiawork&layout=compact&theme=dark&exclude_repo=Live-Portfolio,yahiawork.github.io,firststandstudio-dev)
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:333333&height=120&section=footer"/>
 </p>
