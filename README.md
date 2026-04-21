@@ -1,55 +1,64 @@
-# Freelance Developer | Full-Stack | Systems & Tools
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:333333&height=200&section=header&text=Yahia%20Saad&fontSize=40&fontColor=ffffff" />
+</p>
 
-I’m a full-stack developer with strong expertise in software engineering, game development, and system design.
+<h3 align="center">Full-Stack Developer • Systems Engineer • Game Developer</h3>
 
-I work across multiple technologies including:
-- C / C++
-- Python
-- JavaScript
-- C#
-- HTML / CSS
-
-And frameworks such as:
-- Flask
-- React
-- Node.js
-- Flutter
+<p align="center">
+  I design and build complete software systems — from architecture to deployment.
+</p>
 
 ---
 
-## What I Do
+## 🚀 Tech Stack
 
-I don’t just write code — I build complete systems.
-
-From backend architecture to modern UI/UX, I focus on:
-- Performance 
-- Scalability 
-- Clean and maintainable code 
-
----
-
-# My Experience Includes
-
-- Building custom programming tools & systems  
-- Game development (Unity, Unreal Engine, Godot)  
-- Desktop applications (Win32, low-level optimization)  
-- Secure and scalable web platforms  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,cs,html,css" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=flask,react,nodejs,flutter" />
+</p>
 
 ---
 
-## My Approach
+## 🧠 What I Build
 
-I focus on delivering **real, working products**, not just prototypes.
+<p align="center">
+  <img src="https://img.shields.io/badge/Systems-Architecture-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Game-Development-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Desktop-Apps-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Web-Platforms-black?style=for-the-badge" />
+</p>
 
-If you need someone who can take an idea and turn it into a complete, functional solution — I’m ready to work.
+<p align="center">
+  Custom tools • Game engines • Optimized systems • Scalable platforms
+</p>
 
 ---
 
-## Let’s Work Together
+## ⚙️ GitHub Stats
 
-Feel free to reach out and describe your project.  
-I’ll help you turn it into reality.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yahiawork&show_icons=true&theme=dark&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yahiawork&theme=dark&hide_border=true" />
+</p>
 
-WorkGmail: yahiasaad.work@gmail.com
+---
+
+## 📬 Hire a Developer
+
+<p align="center">
+  If you need a developer who can turn ideas into real systems:
+</p>
+
+<p align="center">
+  📧 <strong>yahiasaad.work@gmail.com</strong>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:333333&height=120&section=footer"/>
+</p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yahiawork&layout=compact&theme=dark&exclude_repo=Live-Portfolio,yahiawork.github.io)
